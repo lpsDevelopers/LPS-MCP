@@ -64,7 +64,7 @@ LPS MCP es un servidor con funciones mínimas para proporcionar herramientas ava
            "path/to/LPS-MCP",
            "run",
            "server.py",
-           "C:\\Users\\juandavid.rodriguez\\Documents"
+           "path/to/directory"
          ]
        }
      }
