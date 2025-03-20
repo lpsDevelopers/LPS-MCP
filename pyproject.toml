@@ -1,0 +1,9 @@
+[project]
+name = "lps-mcp"
+version = "0.1.0"
+description = "Un servidor MCP mínimo para permitir a Claude interactuar con archivos locales. Solo lectura. Incluido con pensamiento extendido."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp[cli]>=1.4.1",
+]
