@@ -57,7 +57,7 @@ LPS MCP es un servidor con funciones mínimas para proporcionar herramientas ava
    ```json
    {
      "mcpServers": {
-       "simple_tools": {
+       "lps-mcp": {
          "command": "uv",
          "args": [
            "--directory",
